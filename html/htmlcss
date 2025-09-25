@@ -1,0 +1,39 @@
+<html>
+    <head>
+        <title>BRENDA'S DAILY CODING CHALLENGE</title>
+    </head>
+    <link rel="stylesheet" href="styles.css">
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <a href="about us"><li>About us</li></a>
+                    <a href="contact"><li>Contact</li></a>  
+                    <a href="home"><li>home</li>  </a>           <li>Home</li>
+                </ul>
+            </nav>
+        </header>
+        <hr>
+        <img src="oyster1.jpg.jpg" alt="mushroom farm"><br><br>
+        <img src ="oyster2.jpg" alt ="background">
+        <h1>Bebet's Mushroom farm!</h1>
+        <p>From decades and centuries, mushroom has been known for not only nutritional benefits but medicinal benefits as well.
+        That is why we at <i>Bebet's Farm</i> naturally grow our mushrooms without preservatives or chemicals added.
+        Come and delight in our mushrooming farm of mushrooms.</p>
+    </body>
+    <footer>
+        <div class="footer section">
+            <a href="#"><img src="facebook.jpg">Facebook</a>
+            <a href="#"><img src="instagram.jpg">Instagram</a>
+
+        </div>
+    </footer>
+   
+</html>
+body{background-color:rgb(199, 193, 193)
+
+;
+}
+img{width: 100px;
+height: 100px;}
+li{list-style: none;}
